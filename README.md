@@ -1,7 +1,3 @@
-# ClientServer Task Management Application
-
-This project is a simple client-server application for task management. It allows users to add tasks with deadlines, view all tasks, update tasks, and remove tasks.
-
 ## Available Commands
 
 ### Client Commands
